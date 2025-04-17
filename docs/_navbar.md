@@ -6,7 +6,7 @@
   * [Electricity and Electric Vehicle Charging](/en/electro)
   * [Grill](/en/grill)
 
-* [:norway: Norsk](/no/)
+* [:norway: Norsk](/no/readme)
   * [Toaletter](/no/toilets)
   * [Vann](/no/water)
   * [Søppel](/no/garbage)
@@ -14,7 +14,7 @@
   * [Elektrisitet og elbillading](/no/electro)
   * [Grille](/no/grill)
 
-* [:de: Deutsch](/de/)
+* [:de: Deutsch](/de/readme)
   * [Toiletten](/de/toilets)
   * [Wasser](/de/water)
   * [Müll](/de/garbage)
@@ -22,7 +22,7 @@
   * [Strom und Aufladen von Elektrofahrzeugen](/de/electro)
   * [Grill](/de/grill)
 
-* [:ru: Русский](/ru/)
+* [:ru: Русский](/ru/readme)
   * [Туалеты](/ru/toilets)
   * [Вода](/ru/water)
   * [Мусор](/ru/garbage)
