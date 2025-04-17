@@ -1,4 +1,4 @@
-* [:uk: English](/en/)
+* [:uk: English](/en/readme)
   * [Toilets](/en/toilets)
   * [Water](/en/water)
   * [Garbage](/en/garbage)
